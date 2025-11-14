@@ -32,3 +32,7 @@ Essa estratégia impede o deadlock porque garante que sempre sobra pelo menos um
           liberar(garçom)                     // libera permissão para outro filósofo
 
           estado[p] ← "pensando"
+
+## Demais explicações:
+
+https://www.youtube.com/watch?v=TA78NEFqa0Y
